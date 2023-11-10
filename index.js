@@ -1,5 +1,7 @@
 
+uwe2();
 
-function uwe() {
+
+function uwe2() {
     console.log("test9 inside uwe()");
 }
