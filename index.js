@@ -1,1 +1,5 @@
-console.log("test9");
+
+
+function uwe() {
+    console.log("test9 inside uwe()");
+}
